@@ -1,2 +1,2 @@
-# Guss Game Pyrhon
- A Funny Guss Game With Python
+# Guss Game Python
+ A Funny Two Memmeber Guss Game With Python
